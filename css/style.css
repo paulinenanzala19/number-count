@@ -1,0 +1,35 @@
+body, html{
+    background-color: skyblue;
+    
+   
+    
+}
+.row{
+    /* border: 1px solid black; */
+    margin-top: 300px;
+    margin-left: 400px;
+   width: 600px;
+   height: 350px;
+   box-shadow: 10px 10px 15px rgb(135,206,235), -10px -10px 15px whitesmoke;
+   text-align: center;
+    font-size: 30px;    
+
+}
+#count{
+    font-size: 30px;
+
+}
+#decrease{
+    padding: 20px;
+    width: 20%;
+    font-size: 20px;
+    margin: 0px 20px;
+}
+#increase{
+    padding: 20px;
+    width: 20%;
+    font-size: 20px;
+    
+}
+
+  
